@@ -9,5 +9,7 @@ Usage:
 3. Enter search query.
 
  Answer area devided into two parts:
- Left text area contains meta info about documents which content matches search query and relevant text parts where match found.
- Right text area contains answer from ontology with suggestions based on ontology structure and relevant information.
+
+Left text area contains meta info about documents which content matches search query and relevant text parts where match found.
+
+Right text area contains answer from ontology with suggestions based on ontology structure and relevant information.
